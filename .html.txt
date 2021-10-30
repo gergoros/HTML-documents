@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>fun Page</title>
+</head>
+<body>
+
+<h1>the best fun page</h1>
+<h3>in development process<p3>
+<p>welocme<p>
+
+</body>
+</html>

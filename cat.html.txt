@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<main>
+<title>Page Title</title>
+</main>
+</head>
+<body>
+<h1>This is a Cat</h1>
+<img src="https://static.standard.co.uk/2021/06/07/12/erik-jan-leusink-IbPxGLgJiMI-unsplash.jpg?width=990&auto=webp&quality=75&crop=968%3A645%2Csmart">
+<p>his name is TOM.</p>
+<footer>
+<p>IVAN ANGELOV<p/>
+</footer>
+</body>
+</html>
